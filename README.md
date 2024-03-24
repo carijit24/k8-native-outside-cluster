@@ -1,0 +1,1 @@
+# k8-native-outside-cluster
